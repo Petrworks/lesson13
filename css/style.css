@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.description {
+font-size: 20px;
+}
+.ul > li:nth-child(1) {
+  animation-delay: 0.3s;
+
+}
+.ul > li:nth-child(2) {
+
+}
+.ul > li:nth-child(3) {
+
+}
+.ul > li:nth-child(4) {
+
+}
+.ul > li:nth-child(5) {
+
+}
